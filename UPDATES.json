@@ -1,0 +1,367 @@
+{
+  "DATA": {
+"https://eu1.akirabox.com/uploads/users/Q2WVGrPM3kx7/coquC5hqg2tD9UleOde-[DLPSGAME.COM]-EP1004-CUSA36843_00-REDEMPTION000001-A0103-V0100-CyB1K.pkg": {
+      "title_id": "CUSA36843  ",
+      "region": "EUR",
+      "name": "Red Dead Redemption Update 1.03",
+      "size": 569638912,
+      "version": "1.04",
+      "release": "2022",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-eJGx-MyyHAw/ZTM2sCteyPI/AAAAAAAADOc/sOY5T5iTTZcDIFxVhbWw0LM9UoPyHJt5wCNcBGAsYHQ/s0/3.jpg"
+	},
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cozb5Dd7tW4ticTS8de-STRAY.v1.03bp-CUSA24899.pkg": {
+      "title_id": "CUSA24899",
+      "region": "EUR",
+      "name": "Stray FIX 5.05+",
+      "size": 6592774799,
+      "version": "1.03",
+      "release": "2022",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-Q3UmI3HLgNc/Yu46xDwVDjI/AAAAAAAAKMw/BsBPMCkKtKYfI21Xq37D_S3nSsLjRQdfQCNcBGAsYHQ/s0/3.jpg"
+	  	  },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coXKcopH5l8pLLE79de-[SuperPSX]-EA.SPORTS.FC.25_CUSA46399_v1.14_BACKPORT_[5.05-6.72-7.xx]-PS4_OPOISSO893.pkg": {
+      "title_id": "CUSA46399",
+      "region": "EUR",
+      "name": "FIFA SPORTS FC 25 FIX 5.05-11.00",
+      "size": 5046586572,
+      "version": "1.14",
+      "release": "2024",
+      "min_fw": "6.72",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/09/1-21.jpg"
+    },
+    /*"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co8cDysLGbma8bjqzde-Grand.Theft.Auto.3_CUSA03508_v1.02_OPOISSO893.pkg": {
+      "title_id": "CUSA03508",
+      "region": "EUR",
+      "name": "Grand Theft Auto III – The Definitive Edition FIX 5.05-11.00",
+      "size": 13369344,
+      "version": "1.02",
+      "release": "2015",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
+    },*/
+  "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coBacN1ZKTl53jirQde-[SuperPSX]-Devil.May.Cry.5_CUSA08161_v1.10_[6.72]-PS4.pkg": {
+      "title_id": "CUSA08161 ",
+      "region": "EUR",
+      "name": "Devil May Cry 5 Deluxe Edition FIX 6.72 SOON NEXT UPDATE",
+      "size": 5690831667,
+      "version": "1.10",
+      "release": "2019",
+      "min_fw": "6.72",
+      "cover_url": "https://2.bp.blogspot.com/-uSOwAk_fliY/X1B_jDjCcYI/AAAAAAAAGwQ/ae7NIgw8qfA-82yMBVoWpOKk_IA4ouswgCLcBGAsYHQ/s1600/0.jpg" 
+    },
+"https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co4ulEX6vsudzqDVGde-[SuperPSX]-Devil.May.Cry.5_CUSA08161_v1.10_BACKPORT_[5.05]-PS4.pkg": {
+      "title_id": "CUSA08161 ",
+      "region": "EUR",
+      "name": "Devil May Cry 5 Deluxe Edition FIX 5.05 SOON NEXT UPDATE",
+      "size": 5723043921,
+      "version": "1.10",
+      "release": "2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://2.bp.blogspot.com/-uSOwAk_fliY/X1B_jDjCcYI/AAAAAAAAGwQ/ae7NIgw8qfA-82yMBVoWpOKk_IA4ouswgCLcBGAsYHQ/s1600/0.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coUIEo4PFIxEv7Eupde-Tormented.Souls.v1.02bp-CUSA29199.pkg": {
+      "title_id": "CUSA29199 ",
+      "region": "EUR",
+      "name": "Tormented Souls FIX 5.05-11.00",
+      "size": 6603512217,
+      "version": "1.02",
+      "release": "2021",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-xFIFXOQLdmo/Yh2btDq7UxI/AAAAAAAAIng/2JCCixTC0sEZrNmMn7ssyXPKxIUxbkjxQCNcBGAsYHQ/s0/2.jpg"
+	  },
+    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coFsZ56Ubn8fofZg6de-Saint.Kotar_CUSA32503_v1.05_BACKPORT_[5.05-6.72-7.xx-8.xx]_OPOISSO893.pkg": {
+      "title_id": "CUSA32503  ",
+      "region": "EUR",
+      "name": "Saint Kotar FIX 5.05-11.00",
+      "size": 2415919104,
+      "version": "1.05",
+      "release": "2022",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-ir6j2PehOXw/ZnOGqmGiCCI/AAAAAAAAA3o/An8v6iaZqCMl5ou7ABu-4y2D7SsBSC6ngCNcBGAsYHQ/s0/2.jpg"
+	  	  },
+    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co219QYsVOqx54iCade-UP2769-CUSA09253_00-THROUGHTHEWOODS2-A0101-V0100-TRIFECTA-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA09253  ",
+      "region": "USA",
+      "name": "Through The Woods FIX 5.05-11.00",
+      "size": 1503238553,
+      "version": "1.02",
+      "release": "2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-MgN5EzURAbo/ZiSkP7g5RtI/AAAAAAAAGCU/9G5TJjB_vEMk8RcUY9MOfA95SUzAvciLQCNcBGAsYHQ/s0/1.png"
+	  	  },
+    /*"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coC7Lc1a0XEJddpVtde-PATCH-FIXUP1004-CUSA26615_00-A0107-V0100-CyB1K-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA23501",
+      "region": "EUR",
+      "name": "Grand Theft Auto: Vice City – The Definitive Edition FIX",
+      "size": 131732602,
+      "version": "1.07",
+      "release": "2021",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
+    },*/
+     "https://download.akirabox.com/uploads/users/1k0embVVmVb4/co0jW9eMhRDPimDpLde-CUSA15010-USA-v1.41-[Fix.5.05-6.72-7.02-7.55-9.00]-PS4-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA15010 ",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops Cold War UPDATE+FIX",
+      "size": 92739081339,
+      "version": "1.41",
+      "release": "2020",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-4VjCGuaGMD4/YbywKejnQrI/AAAAAAAAMQM/aQlLmYT39V474FQ_V8P1rI9C_OQ8BYJDwCNcBGAsYHQ/h300/2.jpg"
+    },
+     "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coAMQdNf18uQUO3hFde-Prince.Of.Persia.The.Lost.Crown_CUSA36582_FIX-6.72-7.XX.pkg": {
+      "title_id": "CUSA36582 ",
+      "region": "EUR",
+      "name": "Prince of Persia The Lost Crown-FIX 6.72-7.XX",
+      "size": 5003636899,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "6.72-7.XX+",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/10/1-2.jpg"
+    },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co9pU3MIS2mrl6gTRde-Prince.Of.Persia.The.Lost.Crown_FIX-9.00-11.00.pkg": {
+      "title_id": "CUSA36582 ",
+      "region": "EUR",
+      "name": "Prince of Persia The Lost Crown-FIX 9.00-11.00",
+      "size": 4982162063,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "9.00-11.00",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/10/1-2.jpg"
+    }, 
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coDSBt5jYMdCulP35de-UP2703-CUSA30202_00-WUGUAN0000000001-A0127-V0100-CyB1K-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA30202  ",
+      "region": "EUR",
+      "name": "SIFU FIX",
+      "size": 11360188498,
+      "version": "1.12",
+      "release": "2022",
+      "min_fw": "5.05+",
+      "cover_url": "https://apkmara.com/wp-content/uploads/2023/09/sifu.jpg"
+	},
+    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coJutCqivF2iHH9gjde-BRAMBLE%20UPDATE.pkg": {
+      "title_id": "CUSA35719 ",
+      "region": "EUR",
+      "name": "Bramble: The Mountain King FIX",
+      "size": 6775310909,
+      "version": "1.01",
+      "release": "2023",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-kxbQevtS4RU/ZGGnHhTnt7I/AAAAAAAABpM/8IdD3Ajt5L8vlNQGYWqKjfybkoFU8cXJwCNcBGAsYHQ/s0/2.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coz6QYoHCjsz1HSVAde-Tomb.Raider.I-III.Remastered_CUSA43774_v1.05_BACKPORT_[5.05-6.72-7.xx-9.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA43774  ",
+      "region": "EUR",
+      "name": "Tomb Raider I-III Remastered Starring Lara Croft PART2 FIX",
+      "size": 2126008811,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-g4bVaGXc9eA/ZeMS6ED8MZI/AAAAAAAAFdQ/stf79UzaorwIlGCtkFsn-LgdMVtK-m6vACNcBGAsYHQ/s0/1.jpg"
+	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coJQWeCCEbFguHK75de-Prince.Of.Persia.The.Lost.Crown_FIX-5.05.pkg": {
+      "title_id": "CUSA36582 ",
+      "region": "EUR",
+      "name": "Prince of Persia The Lost Crown-5.05",
+      "size": 5003636899,
+      "version": "1.00",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/10/1-2.jpg"
+    },	      	           	  	  	  	  	                 	  	
+"https://eu1.akirabox.com/uploads/users/Q2WVGrPM3kx7/coOUE4VpPktujrVnjde-UP5831-CUSA45257_00-SEEDOFLIFEPS4USA-A0101-V0100-6.72-TRIFECTA-CyB1K.pkg": {
+      "title_id": "CUSA45257",
+      "region": "EUR",
+      "name": "Seed Of Life Fix 6.72+",
+      "size": 569638912,
+      "version": "1.02",
+      "release": "2022",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-IhpA6Kd86n4/ZmsqajTQIBI/AAAAAAAAHWw/5O6xqcDP1_QFd4cwf18qtgl7jXN5BMkIgCNcBGAsYHQ/s0/3.jpg"
+	  
+	  
+	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coTeiBKkR9KbKieG3de-EP0700-CUSA08495_00-DARKSOULSHD00000-A0103-V0100.pkg": {
+      "title_id": "CUSA08692 ",
+      "region": "USA ",
+      "name": "Dark Souls Remastered UPDATE",
+      "size": 201200762,
+      "version": "1.03",
+      "release": "2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/103.jpg"
+	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coLKIVEWkKjUw2EAEde-FIXXXXCUSA18357_REMOTHERED_BROKEN_PORCELAIN_UPDATEv2.00_FXD_[FW7].pkg": {
+      "title_id": "CUSA18357 ",
+      "region": "USA",
+      "name": "Remothered Broken Porcelain FIX 5.05-7.XX",
+      "size": 4509715660,
+      "version": "2.00",
+      "release": "2020",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-F94WEQ1NRhE/ZkRDDDvSrSI/AAAAAAAAABs/uX0AN6s08OgSNzwm6k6X3EfOZatyJzKIQCNcBGAsYHQ/s0/31.jpg"
+	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co9RMeOi2AVMfOcvHde-Little.Nightmares.II_CUSA12779_v1.05_BACKPORT_[5.05-6.72-7.02]_OPOISSO893.pkg": {
+      "title_id": "CUSA12779  ",
+      "region": "EUR",
+      "name": "Little Nightmares 2 FIX 5.05-11.00",
+      "size": 3801046057,
+      "version": "1.05",
+      "release": "2021",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-imYBsryQdZA/ZkRDEPQWXII/AAAAAAAAACI/zEQqk343pqA8SNRod7JkW7d_-XOptNORwCNcBGAsYHQ/s0/38.jpg"
+	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cokTF7H9TCkcuBuegde-SSDT_13801-Update-v1.06-PS4-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA13801  ",
+      "region": "EUR",
+      "name": "Sekiro Shadows Die Twice FIX",
+      "size": 4423816314,
+      "version": "1.06",
+      "release": "2019",
+      "min_fw": "5.05+",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/89.jpg"
+
+	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coz1bQM5fE7R9akpGde-FIXXXXXXXXLittle.Nightmares_CUSA05929_v1.07_[5.05]_OPOISSO893.pkg": {
+      "title_id": "CUSA05929   ",
+      "region": "EUR",
+      "name": "Little Nightmares 1 UPDATE",
+      "size": 2555505541,
+      "version": "1.07",
+      "release": "2017",
+      "min_fw": "5.05+",
+      "cover_url": "https://3.bp.blogspot.com/-uoVPgEM3kek/WqabvrSPoqI/AAAAAAAACZ0/foGFuzywLOEvkSWz4nRRm1f5F2ETExTzQCLcBGAs/s1600/19.jpg"
+	  	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coV7sdk6I7lBEkjKsde--UPDATEEUP4133-CUSA04730_00-A0107-V0100-CyB1K-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA04730   ",
+      "region": "EUR",
+      "name": "Call of Cthulhu UPDATE",
+      "size": 3908420239,
+      "version": "1.07",
+      "release": "2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://4.bp.blogspot.com/-RNcoEqzS6vo/Xxf3hJvbr3I/AAAAAAAALNs/JfmKdu3TcAcVCTLiZuBfj2jy323klMVsQCLcBGAsYHQ/s1600/3.jpg"
+	  	  	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/codvcKwouVjeiocyBde-Rise.of.the.Tomb.Raider.V1.06.CUSA05720.PS4.ME-SILENT-[DLPSGAME.COM].pkg": {
+      "title_id": "CUSA05720     ",
+      "region": "EUR",
+      "name": "Rise of The Tomb Raider 20 Year Celebration UPDATE",
+      "size": 3027951943,
+      "version": "1.00",
+      "release": "2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-PMTKzKpApIg/WoVj97gZpsI/AAAAAAAAK0Y/Rbb6M-z_pfAvU-hzxqV5L4UVh4BdB15KACLcBGAs/s1600/38.jpg"
+	  	  	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coBYzrXYyXAW2jy7zde-Kena.Bridge.of.Spirits_CUSA25000_v2.08_BACKPORT_[5.05-6.72-7.xx-8.xx]_OPOISSO893.pkg": {
+      "title_id": "CUSA25000      ",
+      "region": "EUR",
+      "name": "Kena Bridge of Spirits FIX 5.05-7.XX",
+      "size": 186059325,
+      "version": "1.00",
+      "release": "2021",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-ues3M82B-vQ/YbvRzMddk5I/AAAAAAAAMLU/yHaiIeLAwNY30HPArfbckB4euOHLyWNewCNcBGAsYHQ/h300/2.jpg"
+	  	  	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/co6PtXAan5SUZlEkKde-Kena.Bridge.of.Spirits_CUSA25000_v2.08_OptionalFix_[9.00]_OPOISSO893.pkg": {
+      "title_id": "CUSA25000      ",
+      "region": "EUR",
+      "name": "Kena Bridge of Spirits FIX 9.00",
+      "size": 976224,
+      "version": "1.00",
+      "release": "2021",
+      "min_fw": "9.00",
+      "cover_url": "https://1.bp.blogspot.com/-ues3M82B-vQ/YbvRzMddk5I/AAAAAAAAMLU/yHaiIeLAwNY30HPArfbckB4euOHLyWNewCNcBGAsYHQ/h300/2.jpg"
+	  	  	  	  	  	  },
+"https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cou77y2b2EocbW0xyde-Maid.of.Sker_CUSA14939_v1.09_BACKPORT_[5.05-6.72-7.xx-8.xx]_OPOISSO893.pkg": {
+      "title_id": "CUSA14939",
+      "region": "EUR",
+      "name": "Maid of Sker FIX 5.05+",
+      "size": 3596615,
+      "version": "1.00",
+      "release": "2020",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-8SQSnrIawUU/ZkRC_0DAC3I/AAAAAAAAAAs/Xn-uqR3BQ-8pmPYANzzNbG_Q_PC8FoKNwCNcBGAsYHQ/s0/17.jpg"
+	},
+"https://eu1.akirabox.com/uploads/users/Q2WVGrPM3kx7/coifjIpsLOaPR8Q5vde-EP4062-CUSA03290_00-RIPTIDEGAME00000-A0199-V0103.pkg": {
+      "title_id": "CUSA03290",
+      "region": "EUR",
+      "name": "Dead Island Riptide FIX",
+      "size": 65732608 ,
+      "version": "1.03",
+      "release": "2020",
+      "min_fw": "5.05+",
+      "cover_url": "https://4.bp.blogspot.com/-KOsACJOy2fQ/WpjE0d2stUI/AAAAAAAABKY/e_ssXde2eGoxlHXAUW-Nu9TqjrIH4GfowCLcBGAs/s1600/6.jpg"
+	}	,
+"https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/cofE8RKX2BrBxK0Rgde-EP4062-CUSA03291_00-DEADISLANDGAME00-A0199-V0103.pkg": {
+      "title_id": "CUSA03291",
+      "region": "EUR",
+      "name": "Dead Island FIX",
+      "size": 93519872,
+      "version": "1.00",
+      "release": "2016",
+      "min_fw": "5.05+",
+      "cover_url": "https://2.bp.blogspot.com/-kRobayvZNn8/WqCybgFehyI/AAAAAAAACPc/6uDhqOrmkfkqtpGj5UJvVHE3iFybkCkigCLcBGAs/s1600/21.jpg"
+	},
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coTIPHcUdnMv4XJMude-[SuperPSX]-Minecraft_CUSA00265_v3.00_[11.00]-PS4.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "UPDATE Minecraft PlayStation 4 Edition[11.00]",
+      "size": 2361065472,
+      "version": "3.00",
+      "release": "02-14-2025",
+      "min_fw": "11.00",
+      "cover_url": "https://2.bp.blogspot.com/-kmTV5QT-GRw/WpjPAT5OvWI/AAAAAAAABNk/QwE1x2Z3K2sqtDBUoI0ORvLwiXBLjidBwCLcBGAs/s1600/19.jpg"
+  },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coCrvF4SYABcH6zGMde-[SuperPSX]-Minecraft_CUSA00265_v3.00_BACKPORT_[5.05-6.72-7.xx-9.00]-PS4.pkg": {
+      "title_id": "CUSA00265",
+      "region": "EUR",
+      "name": "UPDATE Minecraft PlayStation 4 Edition[5.05]",
+      "size": 2361065472,
+      "version": "3.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-kmTV5QT-GRw/WpjPAT5OvWI/AAAAAAAABNk/QwE1x2Z3K2sqtDBUoI0ORvLwiXBLjidBwCLcBGAs/s1600/19.jpg"
+  },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co4xkLOUfCpsKGnBOde-UP1004-CUSA03041_00-REDEMPTION000002-A0132-V0100.pkg": {
+      "title_id": "CUSA03041",
+      "region": "USA",
+      "name": "Red Dead Redemption 2",
+      "size": 20624572416,
+      "version": "1.32",
+      "release": "2018",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg"
+	},
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/co4gilqRlzRhDfz49de-UP0102-CUSA14168_00-BH3ROFF000000001-A0106-V0100-LockeCole.pkg": {
+      "title_id": "CUSA14123  ",
+      "region": "EUR",
+      "name": "Resident Evil 3 UPDATE",
+      "size": 309067776,
+      "version": "1.006",
+      "release": "2020",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-mLQwHsy9ckM/X9zOMcdcSsI/AAAAAAAAID0/aXBV3PWFFjsex6TuzuzbKRFfwuvwfmiXgCLcBGAsYHQ/s0/2.jpg"
+  },
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coPTP73SW4pxmVEPWde-Resident.Evil.4.Remake.v1.02bp-CUSA33388.pkg": {
+      "title_id": "CUSA33388 ",
+      "region": "EUR",
+      "name": "Resident Evil 4 Remake Gold Edition FIX 5.05 +11.00",
+      "size": 3433597386,
+      "version": "1.02",
+      "release": "2023",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-mO89dvXdmhg/ZB0njRKLJkI/AAAAAAAAAxs/WN6TF8M7rck7YCrKnvi8hoC9blu3Jea_QCNcBGAsYHQ/s0/4.jpg"
+  },  
+    "https://eu1.akirabox.com/uploads/users/XLJlGnnlG15w/coid83YuCMYRBcauHde-UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0149-V0100-lso-v4.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V 1.49 LSO Online",
+      "size": 46492549120,
+      "version": "1.49",
+      "release": "2024",
+      "min_fw": "5.05",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+  }    	 
+  }
+}

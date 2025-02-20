@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/content.pkg": {
+      "title_id": "CUSA00000",
+      "region": "ALL",
+      "name": "Demo",
+      "version": "1.00",
+      "release": "01-01-9999",
+      "size": 13333333337,
+      "min_fw": "12.00",
+      "cover_url": null
+    }
+  }
+}
