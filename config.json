@@ -1,0 +1,36 @@
+{
+  "FILTERING": {
+    "CONTENT": "games",
+    "SORT": {
+      "type": "name",
+      "ascending": true
+    },
+    "REGIONS": [
+      "Asia",
+      "Europe",
+      "Japan",
+      "USA"
+    ]
+  },
+  "PREFERENCES": {
+    "DOWNLOADS": {
+      "directDownload": false,
+      "downloadPath": "/user/data/FPKGi/Downloads/",
+      "installAfter": true,
+      "deleteAfter": false
+    },
+    "APPLICATION": {
+      "background_uri": "/data/FPKGi/Backgrounds/1.png",
+      "backgroundMusic": true,
+      "populateViaWeb": true
+    },
+    "CONTENT_URLS": {
+      "games": "https://ps4ar.com/fpkgi/GAMES.json",
+      "apps": "https://ps4ar.com/fpkgi/APPS.json",
+      "updates": "https://ps4ar.com/fpkgi/UPDATES.json",
+      "DLC": "https://ps4ar.com/fpkgi/DLC.json",
+      "demos": "https://ps4ar.com/fpkgi/DEMOS.json",
+      "homebrew": "https://ps4ar.com/fpkgi/HOMEBREW.json"
+    }
+  }
+}
