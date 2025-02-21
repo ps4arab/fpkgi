@@ -1,14 +1,14 @@
 {
   "DATA": {
-    "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/cols3JjCicupJS7oCde-1.RetroArch.PS4.r4.pkg": {
-      "title_id": "SSNE10000",
+    "https://pkg-zone.com/download/ps4/AZIF00001/latest": {
+      "title_id": "AZIF00001",
       "region": "EUR",
-      "name": "Retroarch",
-      "size": 28835840,
-      "version": "1.10.0",
-      "release": "17-02-2025",
+      "name": "PS4Vibe",
+      "size": 7000000,
+      "version": "1.02",
+      "release": "08-01-2025",
       "min_fw": "5.05+",
-      "cover_url": "https://i.imgur.com/cJVinQA.png"
+      "cover_url": "https://i.postimg.cc/YjKdMnBG/ps4vibe.png"
     },
 	 "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coORVcwQwRNnmle7sde-2.Cores_Installer_r4.1.pkg": {
       "title_id": "SSNE20000",
