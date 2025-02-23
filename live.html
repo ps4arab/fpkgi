@@ -6,7 +6,7 @@
     <title> Live Store </title>
   </head>
   <body>
-    <ul id="GAMES">
+    <ul id="countries">
       <!-- -- -->
     </ul>
 
@@ -14,12 +14,12 @@
       main();
       
       async function main() {
-        const GAMES = await getData();
+        const countries = await getData();
 
-        const GAMESUl = document.querySelector("#GAMES");
+        const countriesUl = document.querySelector("#countries");
 
-        for (const game of GAMES) {
-          GAMESUl.innerHTML += `<li></li>${game.name}`;
+        for (const country of countries) {
+          countriesUl.innerHTML += `<li></li>${country.name}`;
         }
       }
       
