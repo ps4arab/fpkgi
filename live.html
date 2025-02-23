@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Live Store </title>
+  </head>
+  <body>
+    <ul id="GAMES">
+      <!-- -- -->
+    </ul>
+
+    <script>
+      main();
+      
+      async function main() {
+        const GAMES = await getData();
+
+        const GAMESUl = document.querySelector("#GAMES");
+
+        for (const game of GAMES) {
+          GAMESUl.innerHTML += `<li></li>${game.name}`;
+        }
+      }
+      
+      async function getData() {
+        const res = await fetch("GAMES.json");
+        const data = await res.json();
+
+        return data;
+      }
+    </script>
+  </body>
+</html>
