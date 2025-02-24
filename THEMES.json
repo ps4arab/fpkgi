@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/theme.pkg": {
+      "title_id": "CUSA15788",
+      "region": "JAP",
+      "name": "Theme",
+      "version": "6.68",
+      "release": "05-04-2006",
+      "size": 36688464802,
+      "min_fw": "12.61",
+      "cover_url": null
+    }
+  }
+}
