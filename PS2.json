@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/ps2-classic.pkg": {
+      "title_id": "CUSA66959",
+      "region": "ASIA",
+      "name": "PlayStation 2 Classic",
+      "version": "3.39",
+      "release": "06-07-2021",
+      "size": 46863411600,
+      "min_fw": "2.47",
+      "cover_url": null
+    }
+  }
+}
