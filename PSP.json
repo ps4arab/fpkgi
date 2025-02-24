@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/psp-remaster.pkg": {
+      "title_id": "CUSA90540",
+      "region": "USA",
+      "name": "PSP Remaster",
+      "version": "2.74",
+      "release": "05-31-2006",
+      "size": 24414366180,
+      "min_fw": "12.23",
+      "cover_url": null
+    }
+  }
+}
