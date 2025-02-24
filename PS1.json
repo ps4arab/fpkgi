@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/ps1-classic.pkg": {
+      "title_id": "CUSA76563",
+      "region": "UNK",
+      "name": "PlayStation Classic",
+      "version": "1.76",
+      "release": "01-04-2046",
+      "size": 41041177702,
+      "min_fw": "9.60",
+      "cover_url": null
+    }
+  }
+}
