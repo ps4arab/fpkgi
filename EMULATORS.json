@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/emulator.pkg": {
+      "title_id": "CUSA79409",
+      "region": "JAP",
+      "name": "Emulator",
+      "version": "9.27",
+      "release": "02-17-2048",
+      "size": 12264865689,
+      "min_fw": "12.11",
+      "cover_url": null
+    }
+  }
+}
